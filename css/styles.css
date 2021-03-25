@@ -1,4 +1,4 @@
-img {
+.kitty {
   float: left;
   width: 200px;
   height: 150px;
@@ -70,4 +70,48 @@ body {
   margin-bottom: 3px;
   background-color: rgb(47, 63, 52);
   color: white;
+}
+
+.my-class {
+  border: 2px solid black;
+  padding: 10px;
+  background-color: rgb(152, 134, 143);
+  display: block;
+  margin: auto;
+  width: 50%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+}
+
+.centered-image {
+  margin: auto;
+  width: 50%;
+  height: auto;
+  border: 1px solid black;
+  display: block;
+}
+
+.digital p {
+  background-color: rgb(242, 186, 186)
+}
+
+.analog p {
+  background-color: rgb(240, 233, 199);
+}
+
+.digital p a {
+  font-weight: bold;
+}
+
+.analog p a {
+  font-style: italic;
+}
+
+a {
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 32px;
 }
