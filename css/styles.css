@@ -58,3 +58,16 @@ body {
   width: 300px;
   float: left;
 }
+
+.blog {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: rgb(221, 240, 233);
+}
+
+.date {
+  font-weight: bold;
+  margin-bottom: 3px;
+  background-color: rgb(47, 63, 52);
+  color: white;
+}
